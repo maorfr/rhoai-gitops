@@ -86,7 +86,7 @@ data:
                 "properties": [
                   {
                     "id": "custom.width",
-                    "value": 138
+                    "value": 121
                   }
                 ]
               },
@@ -207,6 +207,6 @@ data:
       "timezone": "browser",
       "title": "RHOAI Pull Requests",
       "uid": "ceffao167394we",
-      "version": 4,
+      "version": 6,
       "weekStart": ""
     }
