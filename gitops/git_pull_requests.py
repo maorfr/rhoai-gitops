@@ -10,6 +10,7 @@ def main():
 
     pr_data = []
     for key, repo in repos.items():
+        print(f"[{key}] processing git pull requests")
         gh_repo = gh.get_repo(key)
         prs = gh_repo.get_pulls(state="open")
 
