@@ -2,3 +2,5 @@
 key: red-hat-data-services/modelmesh-serving
 name: modelmesh-serving
 url: https://github.com/red-hat-data-services/modelmesh-serving
+branches:
+- branch: rhoai-2.20

@@ -2,3 +2,5 @@
 key: red-hat-data-services/trustyai-service-operator
 name: trustyai-service-operator
 url: https://github.com/red-hat-data-services/trustyai-service-operator
+branches:
+- branch: rhoai-2.20

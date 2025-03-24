@@ -2,3 +2,5 @@
 key: red-hat-data-services/trustyai-explainability
 name: trustyai-explainability
 url: https://github.com/red-hat-data-services/trustyai-explainability
+branches:
+- branch: rhoai-2.20

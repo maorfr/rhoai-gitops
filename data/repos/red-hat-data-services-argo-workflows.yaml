@@ -2,3 +2,5 @@
 key: red-hat-data-services/argo-workflows
 name: argo-workflows
 url: https://github.com/red-hat-data-services/argo-workflows
+branches:
+- branch: rhoai-2.20

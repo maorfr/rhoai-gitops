@@ -2,3 +2,5 @@
 key: red-hat-data-services/data-science-pipelines-tekton
 name: data-science-pipelines-tekton
 url: https://github.com/red-hat-data-services/data-science-pipelines-tekton
+branches:
+- branch: rhoai-2.20
