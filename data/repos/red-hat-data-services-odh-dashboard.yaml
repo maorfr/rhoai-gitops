@@ -3,4 +3,5 @@ key: red-hat-data-services/odh-dashboard
 name: odh-dashboard
 url: https://github.com/red-hat-data-services/odh-dashboard
 branches:
+- branch: rhoai-2.19
 - branch: rhoai-2.20

@@ -3,4 +3,5 @@ key: red-hat-data-services/model-registry-operator
 name: model-registry-operator
 url: https://github.com/red-hat-data-services/model-registry-operator
 branches:
+- branch: rhoai-2.19
 - branch: rhoai-2.20

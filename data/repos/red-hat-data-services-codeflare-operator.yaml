@@ -3,4 +3,5 @@ key: red-hat-data-services/codeflare-operator
 name: codeflare-operator
 url: https://github.com/red-hat-data-services/codeflare-operator
 branches:
+- branch: rhoai-2.19
 - branch: rhoai-2.20

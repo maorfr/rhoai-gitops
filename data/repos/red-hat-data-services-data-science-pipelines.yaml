@@ -3,4 +3,5 @@ key: red-hat-data-services/data-science-pipelines
 name: data-science-pipelines
 url: https://github.com/red-hat-data-services/data-science-pipelines
 branches:
+- branch: rhoai-2.19
 - branch: rhoai-2.20

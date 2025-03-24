@@ -3,4 +3,5 @@ key: red-hat-data-services/data-science-pipelines-operator
 name: data-science-pipelines-operator
 url: https://github.com/red-hat-data-services/data-science-pipelines-operator
 branches:
+- branch: rhoai-2.19
 - branch: rhoai-2.20
